@@ -27,8 +27,8 @@ var maxPoints = function (points) {
 
 
 /**
- * @param {number[][]} firstPoint
- * @param {number[][]} secondPoint
+ * @param {number[]} firstPoint
+ * @param {number[]} secondPoint
  * @return {number}
  */
 function  calculateLineSlope(firstPoint, secondPoint) {
